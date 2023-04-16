@@ -43,7 +43,7 @@
 - This is a BackEnd part of the  FullStack Application that consists of two separate repositories.
 - React and Rails are used in these repositories to develop the frontend and backend parts of the application respectively.
 - The Rails repository is an API-only application that provides the backend functionality for the application.
-- Complete instructions to configure Front End [hello_react_front_end-Readme](https://github.com/Samuellekpor/hello_react_front_end/README.md)
+- Complete instructions to configure Front End [hello_react_front_end-Readme](https://github.com/Samuellekpor/hello_react_front_end/blob/dev/README.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,7 +70,7 @@ To get a local copy up and running, follow these steps.
 - Ruby installed in your computer. ([install guide](https://www.ruby-lang.org/en/downloads/))
 - Rails installed in your computer. ( [Set up Guide for Rails ](https://guides.rubyonrails.org/v5.1/getting_started.html))
 - Code editor preferably [Vscode](https://code.visualstudio.com/).
-- Complete instructions to configure Front End [hello_react_front_end-Readme](https://github.com/Samuellekpor/hello_react_front_end/README.md)
+- Complete instructions to configure Front End [hello_react_front_end-Readme](https://github.com/Samuellekpor/hello_react_front_end/blob/dev/README.md)
 
 ### Setup
 
